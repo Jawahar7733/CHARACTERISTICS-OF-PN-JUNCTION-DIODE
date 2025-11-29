@@ -1,3 +1,5 @@
+# NAME:Jawahar A
+# REG NO:212224080026
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
